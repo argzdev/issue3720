@@ -1,4 +1,6 @@
 # issue 3720
+### GitHub link
+- https://github.com/firebase/firebase-android-sdk/issues/3720
 ### Prerequisite
 - Run the app on a Windows machine
 - Add google-services.json
